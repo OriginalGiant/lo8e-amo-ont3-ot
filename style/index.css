@@ -446,3 +446,7 @@ ul ul {
 ul li {
     padding-left: 0.5em;
 }
+
+article > section > img {
+    max-width: 100%;
+}
